@@ -20,18 +20,15 @@ Import the [trade.postman_collection.json](https://github.com/m4ty4s28/Trade/blo
 Enter the url [127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/) to see all the created models with their data.
 
 ### User Administrator:
-user: admin
-
-pass: admin123
+- user: admin
+- pass: admin123
 
 ### User A (payment method A):
-user: user_a
-
-pass: trade123
+- user: user_a
+- pass: trade123
 
 ### User B (payment method B):
-user: user_b
-
-pass: trade123
+- user: user_b
+- pass: trade123
 
 The FEES is configured from the "Configuracion" model specially created for the configuration of variables.
